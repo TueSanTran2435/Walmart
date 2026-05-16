@@ -1,0 +1,12 @@
+streamlit
+streamlit-aggrid
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+pydantic
+folium
+numpy
+pandas
+streamlit-folium
+scipy
